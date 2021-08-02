@@ -18,7 +18,7 @@ body{
     border: 3px solid lightgrey;
     border-radius: 5px;
     display: flex;
-    background-image: url("/img/background.jpg/");
+    background-image: url("../img/background.jpg/");
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
